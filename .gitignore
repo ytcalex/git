@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor backups and swap files
+*.swp
+*.swo
+*~
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Temporary files and logs
+*.log
+*.tmp
